@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in campuslands<br>
+🔭 I’m currently studying software development in campuslands<br>
 
 
 # 💻 Tech Stack:
